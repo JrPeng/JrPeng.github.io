@@ -28,12 +28,11 @@ If you are interested in our projects on 3D vision, generative AI, or embodied A
 
 
 # 🔥 News
-- *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 Datasets and Benchmarks Track.
+- *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 D&B.
 - *2024.08*: &nbsp; One paper accepted by ACL 2024 Findings.
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
 - *2024.07*: &nbsp; One paper accepted by ECCV 2024. 
-- *2024.07*: &nbsp; One paper accepted by TPAMI. 
-- *2024.03*: &nbsp; One paper accepted by IEEE-CAAJAutomatic.
+- *2024.07*: &nbsp; One paper accepted by TPAMI 2024. 
 - *2024.02*: &nbsp; One paper accepted by CVPR 2024.
 
 
