@@ -18,17 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-I am currently an Associate Professor in the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/).
-My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction, image/video generation and neural rendering. 
-
+I am currently an Associate Professor in the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/). My research interests focus on 3D generative AI and Embodied AI, including motion capture & synthesis, 3D reconstruction, 3D scene generation, computer graphics,  image/video generation and robotics. 
+Before I joined USTB, I obtained my B.E. and Ph.D. degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/), and [Institute of Automation](https://english.ia.cas.cn/)，[Chinese Academy of Sciences](https://english.cas.cn/), under the supervision of [Prof. Tieniu Tan](https://people.ucas.ac.cn/~0009513) and [Prof. Zhaoxiang Zhang](https://zhaoxiangzhang.net/). After that I joined Huawei and deeply cooperate with [Lingxi Xie](http://lingxixie.com/Home.html) under the supervision of [Prof. Qi Tian](https://www.qitian1987.com/). After that I have founded a startup Cheery.AI for a while.
 
 # 🔈 Join Us
-Please feel free to contact me for possible cooperation if you are interested in our projects or 3D vision research.
+If you are interested in our projects on 3D vision, generative AI, or embodied AI, please feel free to contact me for potential collaboration or exchange. You can reach out via email or WeChat.
 
-随时欢迎对三维视觉、生成式人工智能感兴趣的老师/研究生/本科生/实习生通过[邮件](jrpeng4ever@126.com)或[微信](jeff010503)联系合作、交流
+随时欢迎对三维视觉、生成式人工智能、具身智能感兴趣的老师/研究生/本科生/实习生通过[邮件](jrpeng4ever@126.com)或[微信](jeff010503)联系合作、交流
 
 
 # 🔥 News
+- *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 Datasets and Benchmarks Track.
+- *2024.08*: &nbsp; One paper accepted by ACL 2024 Findings.
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
 - *2024.07*: &nbsp; One paper accepted by ECCV 2024. 
 - *2024.07*: &nbsp; One paper accepted by TPAMI. 
@@ -37,6 +38,30 @@ Please feel free to contact me for possible cooperation if you are interested in
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts**
+
+Jiaheng Liu, Zehao Ni, Haoran Que, Tao Sun, Zekun Wang, Jian Yang, Jiakai Wang, Hongcheng Guo, Zhongyuan Peng, Ge Zhang, Jiayi Tian, Xingyuan Bu, Ke Xu, Wenge Rong, **Junran Peng**, Zhaoxiang Zhang
+
+NeurIPS Dataset and Benchmark Track 2024
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/rolellm.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models**
+[[Paper](https://arxiv.org/abs/2310.00746)]
+[[Code](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
+
+Zekun Moore Wang\*, Zhongyuan Peng\*, Haoran Que\*, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Stephen W. Huang, Jie Fu, **Junran Peng**
+
+Findings of the Association for Computational Linguistics (**Findings of ACL**) 2024
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -203,7 +228,7 @@ Genghao Zhang, Yuxi Wang, Chuanchen Luo, Shibiao Xu, Zhaoxiang Zhang, Man Zhang,
 
 # 📖 Experiences
 * Associate Professor in the [School of Computer and Communication Engineering](https://enscce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/)  
-  Date: 2024.08 ~ (now)
+  Date: 2024.09 ~ (now)
   
 * Ph.D in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
   Date: 2015.09 ~ 2020.07  
