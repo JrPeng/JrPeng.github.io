@@ -141,14 +141,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence（**TPAMI**）202
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/Depth-Guided.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/Depth-Guided.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Depth-Guided Vision Transformer With Normalizing Flows for Monocular 3D Object Detection*
 [[Paper](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123660)]
 
 Cong Pan, **Junran Peng**, Zhaoxiang Zhang
 
-5.IEEE/CAA Journal of Automatica Sinica (**JAS**)2024
+5.IEEE/CAA Journal of Automatica Sinica (**IEEE/CAA JAS**)2024
 
 </div>
 </div>
@@ -207,7 +207,7 @@ Genghao Zhang, Yuxi Wang, Chuanchen Luo, Shibiao Xu, Zhaoxiang Zhang, Man Zhang,
   
 * Ph.D in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
   Date: 2015.09 ~ 2020.07  
-  Supervisor: Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
+  Supervisor: Prof. [Tieniu Tan](https://people.ucas.ac.cn/~0009513) and [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
   
 * B.E. in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
   Date: 2011.09 ~ 2015.07
