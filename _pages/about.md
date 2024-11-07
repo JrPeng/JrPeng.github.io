@@ -232,7 +232,7 @@ Genghao Zhang, Yuxi Wang, Chuanchen Luo, Shibiao Xu, Zhaoxiang Zhang, Man Zhang,
   
 * Ph.D in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
   Date: 2015.09 ~ 2020.07  
-  Supervisor: Prof. [Tieniu Tan](https://people.ucas.ac.cn/~0009513) and [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
+  Supervisor: Prof. [Tieniu Tan](https://people.ucas.ac.cn/~0009513) and Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
   
 * B.E. in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
   Date: 2011.09 ~ 2015.07
