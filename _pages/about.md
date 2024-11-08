@@ -164,15 +164,102 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence（**TPAMI**）202
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA JAS 2024</div><img src='images/Depth-Guided.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/BAEFormer.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
-**Depth-Guided Vision Transformer With Normalizing Flows for Monocular 3D Object Detection*
-[[Paper](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123660)]
+**BAEFormer: Bi-Directional and Early Interaction Transformers for Bird's Eye View Semantic Segmentation**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_BAEFormer_Bi-Directional_and_Early_Interaction_Transformers_for_Birds_Eye_View_CVPR_2023_paper.pdf)]
 
-Cong Pan, **Junran Peng**, Zhaoxiang Zhang
+Cong Pan, Yonghao He, **Junran Peng**, Qian Zhang, Wei Sui, Zhaoxiang Zhang
 
-5.IEEE/CAA Journal of Automatica Sinica (**IEEE/CAA JAS**)2024
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/DATA.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**DATA: Domain-aware and task-aware self-supervised learning**
+[[Paper](https://arxiv.org/pdf/2203.09041)]
+
+Qing Chang, **Junran Peng**, Lingxie Xie, Jiajun Sun, Haoran Yin, Qi Tian, Zhaoxiang Zhang
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2023
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2022</div><img src='images/Delving.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Delving into the effectiveness of receptive fields: Learning scale-transferrable architectures for practical object detection**
+[[Paper](https://link.springer.com/article/10.1007/s11263-021-01573-6)]
+
+Zhaoxiang Zhang, Cong Pan, **Junran Peng**
+
+International Journal of Computer Vision (**IJCV**) 2022
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/Uncertainty-aware.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Uncertainty-aware pseudo label refinery for domain adaptive semantic segmentation**
+[[Paper](http://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Uncertainty-Aware_Pseudo_Label_Refinery_for_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.pdf)]
+
+Yuxi Wang, **Junran Peng**, ZhaoXiang Zhang
+
+IEEE/CVF International Conference on Computer Vision (**ICCV**) 2021
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/Gaia.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Gaia: A transfer learning system of object detection that fits your needs**
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bu_GAIA_A_Transfer_Learning_System_of_Object_Detection_That_Fits_CVPR_2021_paper.pdf)]
+
+Xingyuan Bu, **Junran Peng**, Junjie Yan, Tieniu Tan, Zhaoxiang Zhang
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/Large-scale.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Large-scale object detection in the wild from imbalanced multi-labels**
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Large-Scale_Object_Detection_in_the_Wild_From_Imbalanced_Multi-Labels_CVPR_2020_paper.pdf)]
+
+**Junran Peng**, Xingyuan Bu, Ming Sun, Zhaoxiang Zhang, Tieniu Tan, Junjie Yan
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/Efficient.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Efficient neural architecture transformation search in channel-level for object detection**
+[[Paper](https://arxiv.org/pdf/1909.02293)]
+
+**Junran Peng**, Ming Sun, Zhaoxiang Zhang, Tieniu Tan, Junjie Yan
+
+Neural Information Processing Systems (**NeurIPS**) 2019
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/POD.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**POD: Practical object detection with scale-sensitive network**
+[[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_POD_Practical_Object_Detection_With_Scale-Sensitive_Network_ICCV_2019_paper.pdf)]
+
+**Junran Peng**, Ming Sun, Zhaoxiang Zhang, Tieniu Tan, Junjie Yan
+
+IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
+
 
 </div>
 </div>
