@@ -19,12 +19,12 @@ redirect_from:
 
 # 🎓 About Me
 I am currently an Associate Professor in the [School of Computer and Communication Engineering](https://scce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/). My research interests focus on 3D generative AI and Embodied AI, including motion capture & synthesis, 3D reconstruction, 3D scene generation, computer graphics,  image/video generation and robotics. 
-Before I joined USTB, I obtained my B.E. and Ph.D. degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/), and [Institute of Automation](https://english.ia.cas.cn/)，[Chinese Academy of Sciences](https://english.cas.cn/), under the supervision of [Prof. Tieniu Tan](https://people.ucas.ac.cn/~0009513) and [Prof. Zhaoxiang Zhang](https://zhaoxiangzhang.net/). After that I joined Huawei and deeply cooperate with [Lingxi Xie](http://lingxixie.com/Home.html) under the supervision of [Prof. Qi Tian](https://www.qitian1987.com/). After that I have founded a startup Cheery.AI for a while. Now I'm in deep cooperation with [Prof. Zhaoxiang Zhang](https://zhaoxiangzhang.net/) in [Institute of Automation](https://english.ia.cas.cn/)，[Chinese Academy of Sciences](https://english.cas.cn/). I also collaberate closely with [Prof.Jiaheng Liu] in Nanjing University and [Prof. Chuanchen Luo](https://luckydc.github.io/) in Shandong University.
+Before I joined USTB, I obtained my B.E. and Ph.D. degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/), and [Institute of Automation](https://english.ia.cas.cn/)，[Chinese Academy of Sciences](https://english.cas.cn/), under the supervision of [Prof. Tieniu Tan](https://people.ucas.ac.cn/~0009513) and [Prof. Zhaoxiang Zhang](https://zhaoxiangzhang.net/). After that I joined Huawei and deeply cooperate with [Lingxi Xie](http://lingxixie.com/Home.html) under the supervision of [Prof. Qi Tian](https://www.qitian1987.com/). After that I have founded a startup Cheery.AI for a while. Now I'm in deep cooperation with [Prof. Zhaoxiang Zhang](https://zhaoxiangzhang.net/) in [Institute of Automation](https://english.ia.cas.cn/)，[Chinese Academy of Sciences](https://english.cas.cn/) and [Prof. Xucheng Yin]([https://zhaoxiangzhang.net/](https://enscce.ustb.edu.cn/About/Current/2020-05-27/44.html)) in USTB. 
 
 # 🔈 Join Us
 If you are interested in our projects on 3D vision, generative AI, or embodied AI, please feel free to contact me for potential collaboration or exchange. You can reach out via email or WeChat.
 
-随时欢迎对三维视觉、生成式人工智能、具身智能感兴趣的老师/研究生/本科生/实习生通过[jrpeng4ever@126.com](jrpeng4ever@126.com)联系合作、交流
+随时欢迎对三维视觉、生成式人工智能、具身智能、LLM感兴趣的老师/研究生/本科生/实习生通过[jrpeng4ever@126.com](jrpeng4ever@126.com)联系合作、交流
 
 
 # 🔥 News
@@ -315,6 +315,13 @@ Genghao Zhang, Yuxi Wang, Chuanchen Luo, Shibiao Xu, Zhaoxiang Zhang, Man Zhang,
 # 📖 Experiences
 * Associate Professor in the [School of Computer and Communication Engineering](https://enscce.ustb.edu.cn/), [University of Science and Technology Beijing](https://www.ustb.edu.cn/)  
   Date: 2024.09 ~ (now)
+
+* CEO of Cheery.AI
+  Date: 2023.07 ~ 2024.07
+
+* Lead Engineer in the Team PanGu, Huawei Cloud.  
+  Date: 2021.01 ~ 2023.07  
+  Leader: Prof. [Qi Tian](https://www.qitian1987.com/).
   
 * Ph.D in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
   Date: 2015.09 ~ 2020.07  
