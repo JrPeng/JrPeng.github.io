@@ -46,6 +46,8 @@ If you are interested in our projects on 3D vision, generative AI, or embodied A
 
 Mengqi Zhou, Yuxi Wang, Jun Hou, Chuanchen Luo, Zhaoxiang Zhang, **Junran Peng†**
 
+The Annual AAAI Conference on Artificial Intelligence 2025
+
 </div>
 </div>
 
