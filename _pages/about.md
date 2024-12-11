@@ -28,6 +28,7 @@ If you are interested in our projects on 3D vision, generative AI, or embodied A
 
 
 # 🔥 News
+- *2024.12*: &nbsp; One paper(SceneX) accepted by AAAI 2024.
 - *2024.10*: &nbsp; One paper accepted by NeurIPS 2024 D&B.
 - *2024.08*: &nbsp; One paper accepted by ACL 2024 Findings.
 - *2024.07*: &nbsp; Two papers accepted by ACM MM 2024 as oral representations. 
@@ -37,6 +38,17 @@ If you are interested in our projects on 3D vision, generative AI, or embodied A
 
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SceneX.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**2.SceneX: Procedural Controllable Large-scale Scene Generation via Large-language Models**
+[[Paper](https://arxiv.org/pdf/2403.15698)]
+[[Project](https://scenex-lab.github.io/)]
+
+Mengqi Zhou, Yuxi Wang, Jun Hou, Chuanchen Luo, Zhaoxiang Zhang, **Junran Peng†**
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Dataset 2024</div><img src='images/roleagent.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -279,16 +291,6 @@ Shougao Zhang, Mengqi Zhou, Yuxi Wang*, Chuanchen Luo, Rongyu Wang, Yiwei Li, Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SceneX.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**2.SceneX: Procedural Controllable Large-scale Scene Generation via Large-language Models **
-[[Paper](https://arxiv.org/pdf/2403.15698)]
-[[Project](https://scenex-lab.github.io/)]
-
-Mengqi Zhou, Yuxi Wang, Jun Hou, Chuanchen Luo, Zhaoxiang Zhang, **Junran Peng†**
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Seek.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
