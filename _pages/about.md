@@ -40,7 +40,7 @@ If you are interested in our projects on 3D vision, generative AI, or embodied A
 # 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SceneX.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
-**2.SceneX: Procedural Controllable Large-scale Scene Generation via Large-language Models**
+**SceneX: Procedural Controllable Large-scale Scene Generation via Large-language Models**
 [[Paper](https://arxiv.org/pdf/2403.15698)]
 [[Project](https://scenex-lab.github.io/)]
 
